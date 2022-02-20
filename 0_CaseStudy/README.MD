@@ -67,11 +67,29 @@
         Block Diagram
    ![word-image-40](https://user-images.githubusercontent.com/98874243/154840526-f143d301-868b-45de-a9ca-405907b6a4cb.png)
    
+   
+   
+   
+   ![Block-diagram-of-the-overall-system](https://user-images.githubusercontent.com/98874243/154841989-f419b575-0689-4b96-8f3f-d89d60418828.jpg)
+   
+   
+   
+   
       Drone Architecture
    ![Connecting-ESC-to-drone-motors-e1570423276790](https://user-images.githubusercontent.com/98874243/154840643-452e38be-4ed1-4897-9615-f9659650aac8.jpg)
 
+
+
+
+
+
        Drone
 ![DJI-Mavic-Mini-Drone-Parts](https://user-images.githubusercontent.com/98874243/154840688-3ef5ea0e-a20e-474c-8c52-f9f9273ac1c5.jpg)
+
+
+
+
+
 
 ## Components
     Drone Motor
