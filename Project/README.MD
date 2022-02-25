@@ -44,6 +44,8 @@ This design includes ARM7 Microcontroller ,GPS ,GSM ,Sensors like Temperature Se
 ![111821593-d9b20b80-8908-11eb-9b8f-f3aa6500cf6b](https://user-images.githubusercontent.com/98874243/155762552-50b9c01b-486b-419d-8d99-cc303b812dc7.png) 
 
 The design includes an Arduino Uno Microcontroller Board ,GPS,GSM,Sensors like Temperature Sensor,Sound Sensor, Pulse sensor and Buzzer.The components are connected to analog and digital pins of Arduino Uno and required ground and power supply connections is provided.
+## Flow Chart
+![111823353-dc156500-890a-11eb-8b92-ef204d0df083](https://user-images.githubusercontent.com/98874243/155768754-87865da3-77f1-4228-975c-35e3261e2f90.png)
 
 ##  Component Specifications
 ### 1.Arduino Uno
@@ -58,5 +60,11 @@ GPS receiver is a route framework. GPS captures the signs and locates the victim
 
 ### 5.GSM modem
 A GSM module is a advanced type of modem that has a slot for a SIM card and operates just like a mobile phone. They can be used for receiving and sending SMS and MMS messages. To control these Modem’s AT commands are used . AT is the abbreviation for Attention. Here in our project we have used GSM Sim900A modem which is an easy long range interface with sim slot supporting 2G and 3G networks.It can be easily interfaced with a GPS module to receive and send information.
+### 6.Temperature Sensor
+LM35 is a Integrated Circuit Temperature sensor as the input varies based on the temperature around it the output voltage also varies. It is a affordable and compact IC that can be used to measure accurate temperature.It has a range from -55°C to 150°C. It can be connected to the Arduino Uno Board.
+### 7.Sound Sensor
+Sound sensor helps to detect the sound if it exceeds the set threshold value. The sound level threshold is adjusted via an on board potentiometer. When the sound level exceeds a certain threshold the led on the detector is illuminated.
+### 8.Pulse Sensor
+Pulse Sensor is basically a heart-rate sensor.It can be easily interfaced with Arduino. It has the capability of recording heart rate and heart rate variability. Pulse Sensor adds noise cancellation circuitry and amplification to the hardware. Pulse Sensor works with either a 3V or 5V Arduino power.
 ## Application in Societal Context
 Our project mainly aims to reduce the social challenges and crimes faced by the women in the society. The device we propose shall make the women in the society feel safe and confident to walk alone at any time .The idea is to generate quick help and protect the victim.Therefore it helps to avoid many violent crimes against women. The device uses multiple inputs from the switch as well as the sensors and does not compromise in its task of generating immediate help.The self help device we have designed will build the women’s strength to face the difficult situations with courage and with a hope that somebody will soon be there to reach her and protect her.
