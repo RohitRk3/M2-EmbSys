@@ -30,7 +30,7 @@ This project proposes a self-defence device in order to prevent the problems fac
         5.Using a proper IDE.
  
  
-#  Block Diagram
+#  1.3 Block Diagram
 ![111821423-a7081300-8908-11eb-8988-33681780b564](https://user-images.githubusercontent.com/98874243/155762498-c67518f4-63c4-4327-9a72-caf7a8853647.png)
 
 The block diagram of the device consists of Arduino Uno Microcontroller Board ,GPS Module ,GSM Module, buzzer ,various sensors that includes Temperature sensor, Sound sensor and Pulse sensor.
@@ -47,7 +47,7 @@ The design includes an Arduino Uno Microcontroller Board ,GPS,GSM,Sensors like T
 ## Flow Chart
 ![111823353-dc156500-890a-11eb-8b92-ef204d0df083](https://user-images.githubusercontent.com/98874243/155768754-87865da3-77f1-4228-975c-35e3261e2f90.png)
 
-##  Component Specifications
+##  1.4 Component Specifications
 ### 1.Arduino Uno
    The Arduino Uno Microcontroller board has 14 digital Input-Output pins , 6 analog InputOutput pins, and it can be programmed using Arduino IDE tool. It is powered using USB cable externally using a 9V battery, it accepts voltages between 7 and 20 volts.
 
@@ -66,5 +66,5 @@ LM35 is a Integrated Circuit Temperature sensor as the input varies based on the
 Sound sensor helps to detect the sound if it exceeds the set threshold value. The sound level threshold is adjusted via an on board potentiometer. When the sound level exceeds a certain threshold the led on the detector is illuminated.
 ### 8.Pulse Sensor
 Pulse Sensor is basically a heart-rate sensor.It can be easily interfaced with Arduino. It has the capability of recording heart rate and heart rate variability. Pulse Sensor adds noise cancellation circuitry and amplification to the hardware. Pulse Sensor works with either a 3V or 5V Arduino power.
-## Application in Societal Context
+## 1.5 Application in Societal Context
 Our project mainly aims to reduce the social challenges and crimes faced by the women in the society. The device we propose shall make the women in the society feel safe and confident to walk alone at any time .The idea is to generate quick help and protect the victim.Therefore it helps to avoid many violent crimes against women. The device uses multiple inputs from the switch as well as the sensors and does not compromise in its task of generating immediate help.The self help device we have designed will build the women’s strength to face the difficult situations with courage and with a hope that somebody will soon be there to reach her and protect her.
